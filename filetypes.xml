@@ -4,7 +4,7 @@
     <extensionMap>
       <mapping pattern="dl_x_avg_cancellation_rate" type="PLAIN_TEXT" />
       <mapping pattern="start_from_last_save" type="PLAIN_TEXT" />
-      <mapping pattern="setup_aws" type="PLAIN_TEXT" />
+      <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern="data description" type="PLAIN_TEXT" />
       <mapping pattern="full" type="PLAIN_TEXT" />
       <mapping pattern="gbm_x_ordered_product_sales" type="PLAIN_TEXT" />
@@ -13,12 +13,12 @@
       <mapping pattern=".zipignore" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="markdown" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="setup_aws" type="PLAIN_TEXT" />
       <mapping pattern="decouple-settings.env" type="PLAIN_TEXT" />
       <mapping pattern="dfafdsf" type="PLAIN_TEXT" />
       <mapping pattern="counter_save" type="PLAIN_TEXT" />
       <mapping pattern="aabbcc" type="PLAIN_TEXT" />
-      <mapping pattern=".python-version" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
       <mapping ext="make" type="PLAIN_TEXT" />
       <mapping ext="one" type="PLAIN_TEXT" />
