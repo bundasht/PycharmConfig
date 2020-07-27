@@ -1,0 +1,17 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
+    <debuggers>
+      <debugger id="python">
+        <configuration>
+          <option name="valuesPolicy" value="ON_DEMAND" />
+          <option name="watchReturnValues" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
