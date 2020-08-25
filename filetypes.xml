@@ -13,8 +13,8 @@
       <mapping pattern="aabbcc" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern="data description" type="PLAIN_TEXT" />
-      <mapping pattern="start_from_last_save" type="PLAIN_TEXT" />
       <mapping pattern="counter_save" type="PLAIN_TEXT" />
+      <mapping pattern="start_from_last_save" type="PLAIN_TEXT" />
       <mapping pattern="gbm_x_ordered_product_sales" type="PLAIN_TEXT" />
       <mapping pattern="dfafdsf" type="PLAIN_TEXT" />
       <mapping pattern="full" type="PLAIN_TEXT" />
