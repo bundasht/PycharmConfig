@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="TODOList" type="PLAIN_TEXT" />
       <mapping pattern="counter" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
