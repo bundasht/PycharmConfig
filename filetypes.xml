@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="TODOList" type="PLAIN_TEXT" />
+      <mapping pattern="parameters" type="PLAIN_TEXT" />
       <mapping pattern="counter" type="PLAIN_TEXT" />
+      <mapping pattern="except_pages" type="PLAIN_TEXT" />
+      <mapping pattern="TODOList" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
