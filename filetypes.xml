@@ -1,17 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="db" type="DBN-SQL" />
+      <mapping pattern="TODOList" type="PLAIN_TEXT" />
       <mapping pattern="counter" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
-      <mapping pattern="except_pages" type="PLAIN_TEXT" />
-      <mapping pattern="TODOList" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="except_pages" type="PLAIN_TEXT" />
       <mapping pattern="parameters" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
+      <mapping ext="db" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
