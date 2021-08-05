@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="goal.html" type="AUTO_DETECTED" />
-      <mapping pattern="counter" type="PLAIN_TEXT" />
+      <mapping pattern="TODOList" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="except_pages" type="PLAIN_TEXT" />
       <mapping pattern=".zipignore" type="PLAIN_TEXT" />
-      <mapping pattern="TODOList" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="counter" type="PLAIN_TEXT" />
       <mapping pattern="parameters" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
